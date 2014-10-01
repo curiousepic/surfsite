@@ -1,0 +1,157 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.wave{
+  float: left;
+  display: inline;
+}
+
+.top_text{
+  line-height: 10px;
+  margin-left: 10px;
+}
+
+.title {
+  height: 524px;
+  margin: 0 auto;
+  font-family: "Open Sans";
+  font-weight: 100;
+  color: #252530;
+}
+
+h1.title_text{
+  font-family: "Open Sans";
+  font-size: 100px;
+  font-weight: 100;
+  color: #FFFFFF;
+  text-align: center;
+  line-height: 0px;
+  text-shadow: 0px 2px 5px #455555;
+  margin-top: 210px;
+}
+
+.subtitle{
+  text-align: center;
+  font-size: 16px;
+  line-height: 0px;
+}
+
+.main_body {
+  max-width: 965px;
+  margin: 0 auto;
+  font-family: "Open Sans";
+  color: #707070;
+  line-height: 1.65;
+}
+
+.left_column{
+  float: left;
+  width: 600px;
+}
+
+h1.left_column{
+  font-family: "Oswald";
+  font-size: 62px;
+  font-weight: 400;
+  line-height: 1.15;
+  color: #032640;
+}
+
+.post_info{
+  font-size: 14px;
+  color: #C0C0C0;
+  line-height: 5px;
+}
+
+.quote{
+  font-size: 28px;
+  color: #355E9E;
+  border-left: 3px solid #ccc;
+  margin-left: 5px;
+  padding-left: 15px;
+  padding-top: 5px;
+}
+
+.link {
+  text-decoration: underline;
+  color: #355EAE;
+}
+
+
+.right_column{
+  float: right;
+  width: 280px;
+  font-size: 16px;
+  color: #C0C0C0;
+  line-height: 30px;
+  font-weight: 100;
+}
+
+.right_column_header{
+  font-family: "Oswald";
+  font-size: 18px;
+  font-weight: 400;
+  color: #355E9E;
+  line-height: 0px;
+}
+
+.profile{
+  text-align: center;
+  font-size: 17px;
+  color: #355E9E;
+  font-weight: 100;
+  line-height: .6;
+}
+
+.profile_sites {
+  text-align: center;
+  font-size: 15px;
+  font-weight: 100;
+  line-height: .1;
+}
+
+.subtle{
+  text-decoration: underline;
+  color: #B0B0B0;
+  font-family: "Open Sans";
+  font-weight: 500;
+}
+
+.tinted_background {
+  height:524px;
+  background:
+    linear-gradient(
+      rgba(25, 85, 145, 0.85),
+      rgba(25, 85, 145, 0.85)
+    ),
+    url(hokusai.jpg);
+}
+
+.profile_pic {
+  border-radius: 50%;
+  margin: 0 auto;
+  height: 98px;
+  width: 98px;
+  background:
+    linear-gradient(
+      rgba(25, 85, 145, 0.70),
+      rgba(25, 85, 145, 0.70)
+    ),
+    url(profile.jpg);
+}
+
+
+
+.tinted_ad {
+  width:278px;
+  height:300px;
+  background:
+    linear-gradient(
+      rgba(25, 85, 145, 0.75),
+      rgba(25, 85, 145, 0.75)
+    ),
+    url(tsunamihotel.jpg);
+}

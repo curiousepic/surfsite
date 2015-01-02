@@ -3,4 +3,4 @@ surfsite
 
 HTML and CSS exercise in matching a given site style
 
-Third weekend project at The Iron Yard
+Mid-week 3 project at The Iron Yard
